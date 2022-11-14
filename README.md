@@ -17,7 +17,7 @@ python test_Deblur.py --arch Stoformer --gpu '0,1' --input_dir GoPro/test/input 
 python test_Deblur.py --arch Fixformer --gpu '0,1' --input_dir GoPro/test/input --embed_dim 32 --result_dir result/GoPro+- --weights sto_model_path --batch_size 8 --crop_size 512 --overlap_size 32
 python test_Deblur.py --arch Fixformer --gpu '0,1' --input_dir GoPro/test/input --embed_dim 32 --result_dir result/GoPro-- --weights fix_model_path --batch_size 8 --crop_size 512 --overlap_size 32
 ```
-## Pretrained Weight
+## Pretrained Model
 - Deblur: <a href="https://drive.google.com/file/d/1pURNZs24nXQqEzOJvFtC1wrNMasOQ0lQ/view?usp=share_link">stochastic_model</a> and <a href="https://drive.google.com/file/d/1hObIreDcYJejx9RmYrHOt5feLf9QM7BH/view?usp=share_link">fix_model</a>
 ## Evaluation
 - Deblur: <a href="evaluategopro.m">evaluategopro.m</a>

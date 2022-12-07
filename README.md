@@ -31,7 +31,7 @@ We refer to [Uformer](https://github.com/ZhendongWang6/Uformer) and [Restormer](
   title={Stochastic Window Transformer for Image Restoration},
   author={Xiao, Jie and Fu, Xueyang and Wu, Feng and Zha, Zheng-Jun},
   booktitle={NeurIPS},
-  year={2022}
+  year={2022}}
 ```
 ## Contact
 Please contact us if there is any question(ustchbxj@mail.ustc.edu.cn).
